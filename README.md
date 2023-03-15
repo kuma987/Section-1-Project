@@ -108,6 +108,6 @@
 
 # 보충 학습
 - Project를 진행하면서, 새롭게 알게 된 부분 정리
-- 시각화
+- [시각화](https://github.com/kuma987/Section-1-Project/blob/main/%EB%B3%B4%EC%B6%A9%20%ED%95%99%EC%8A%B5/%EC%8B%9C%EA%B0%81%ED%99%94.ipynb)
   - 파이 차트 글자 내용
   - 누적 막대 그래프
