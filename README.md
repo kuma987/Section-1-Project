@@ -19,3 +19,4 @@
   - 일본 시장 분석 및 게임 설계는 초창기 단계로, 많은 지원비가 주어지지 않음
 
 ## 분석 개요
+<p align="center"><img src = blob:https://imgur.com/4b676686-3bf5-4857-8dd1-d9f0fb5b85ee width="1000" height="400"/>
