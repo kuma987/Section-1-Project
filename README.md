@@ -5,7 +5,7 @@
 
 ## 주제 : 일본 시장 진출을 위한 게임 데이터 분석
 * 수행자 : 장건희
-* 기간 : 2023.3.7 ~ 2023.3.14
+* 기간 : 2023.3.8 ~ 2023.3.13
 * 사용 데이터 : [게임 출고량 데이터](https://ds-lecture-data.s3.ap-northeast-2.amazonaws.com/datasets/vgames2.csv)
 * 분석도구 : python (colab 환경)
 * 주요내용 : 데이터 전처리, 데이터 시각화, 통계검정
