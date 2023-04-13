@@ -89,5 +89,3 @@
   - `출고량`이라는 수치 변수 하나로 분석의 모든 내용 진행
   - 게임 개발 비용을 고려하지 않음
 
-## 분석 수행 코드
-- [코드](https://github.com/kuma987/Section-1-Project/blob/main/code/Section1_Project.ipynb)
